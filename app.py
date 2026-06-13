@@ -236,7 +236,7 @@ hr { border-color: #1e1e2e !important; margin: 2rem 0 !important; }
 # ── HERO ───────────────────────────────────────────────────────────────────────
 st.markdown("""
 <div class="hero">
-    <div class="hero-eyebrow">Multi-Agent · LangGraph · Mistral</div>
+    <div class="hero-eyebrow">Multi-Agent · Tavily · Mistral</div>
     <div class="hero-title">Research Assistant</div>
     <div class="hero-sub">Search → Read → Write → Critique — automated, end to end.</div>
 </div>

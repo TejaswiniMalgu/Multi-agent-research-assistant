@@ -47,3 +47,5 @@ numpy
 
 # Retry Mechanisms
 tenacity
+langchain-mistralai
+mistralai
